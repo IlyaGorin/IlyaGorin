@@ -12,4 +12,4 @@ Web-разработчик с 6-летним опытом в создании а
 
 ## Портфолио:
 
-![Лендинг для игры](https://byplacegame.com/)
+![Лендинг для игры](https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place.png)
