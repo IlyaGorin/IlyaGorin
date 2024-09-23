@@ -23,7 +23,7 @@ Web-разработчик с 6-летним опытом в создании а
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Портфолио:
+## Примеры работ:
 Лендинг игры By place 
 <a href="https://byplacegame.com" target="_blank">https://byplacegame.com</a><br>
 Стек: html, scss, js
