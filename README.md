@@ -20,7 +20,7 @@ html, scss, js
 </div>
 
 Сайт игры Crypto Pirates
-<a href="https://crypto-pirates.app/" target="_blank">https://crypto-pirates.app</a>
+<a href="https://crypto-pirates.app/" target="_blank">https://crypto-pirates.app</a><br>
 html, scss, next js
 <div>
   <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/crypto.png" alt="Лендинг для игры" width="300" />
