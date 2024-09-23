@@ -12,4 +12,5 @@ Web-разработчик с 6-летним опытом в создании а
 
 ## Портфолио:
 
-![Лендинг для игры](https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place.png)
+<img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place.png" alt="Лендинг для игры" width="600" />
+
