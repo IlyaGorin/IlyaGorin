@@ -11,8 +11,11 @@ Web-разработчик с 6-летним опытом в создании а
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Портфолио:
+Лендинг игры By place.
 
-<img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place.png" alt="Лендинг для игры" width="300" />
-<img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place2.png" alt="Лендинг для игры" width="300" />
+<div>
+  <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place.png" alt="Лендинг для игры" width="300" />
+  <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place2.png" alt="Лендинг для игры" width="300" />
+</div>
 
 
