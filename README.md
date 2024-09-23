@@ -13,7 +13,7 @@ Web-разработчик с 6-летним опытом в создании а
 ## Портфолио:
 Лендинг игры By place 
 <a href="https://byplacegame.com" target="_blank">https://byplacegame.com</a><br>
-html, scss, js
+Стек: html, scss, js
 <div>
   <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place.png" alt="Лендинг для игры" width="300" />
   <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/by_place2.png" alt="Лендинг для игры" width="300" />
@@ -21,10 +21,11 @@ html, scss, js
 
 Сайт игры Crypto Pirates
 <a href="https://crypto-pirates.app/" target="_blank">https://crypto-pirates.app</a><br>
-html, scss, next js
+Стек: html, scss, next js
 <div>
   <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/crypto.png" alt="Лендинг для игры" width="300" />
   <img src="https://github.com/IlyaGorin/IlyaGorin/blob/main/images/crypto2.png" alt="Лендинг для игры" width="300" />
 </div>
 
-
+Сонсольная игра Brain games
+<a href="https://github.com/IlyaGorin/Brain-games">Brain-games</a>
